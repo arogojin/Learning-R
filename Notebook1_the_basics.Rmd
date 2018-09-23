@@ -25,9 +25,10 @@ Let's do something simple. We are going to tell R to print out the message "Hell
 The code for this is: print("Hello World")
 Try it out below:
 ```{r}
-#This is a comment, everything followed by a # sign is ignored when you run your code! Use these to remind yourself why youre doing what you did. 
+#This is a comment, everything followed by a # sign is ignored when you run your code! Use these to remind yourself why youre doing what you did.
 
-#Replace this comment with your print command.
+#We'll print out "Hello World"
+print("Hello World")
 ```
 
 
