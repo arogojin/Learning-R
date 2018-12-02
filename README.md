@@ -1,6 +1,4 @@
 # Learning-R
-We will use this to share our code!
+Repository for sharing code / learning
 
-Hello! Hope you're having a nice day so far.
-
-People contributing to this thing (so far) - Alica, George, Shanaa, Sharmini
+People participating (so far) - Alica, George, Shanaa, Sharmini
